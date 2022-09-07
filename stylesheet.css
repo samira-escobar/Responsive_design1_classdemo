@@ -3,5 +3,6 @@ h1{
 }
 
 p{
-	color: red;
+	color: darkred;
+	font-family: Helvetica;
 }
